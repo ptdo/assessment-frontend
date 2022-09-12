@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CommentCard Component should render expected format: 
+        <div>
+            <div>
+                <div>
+                    <h2>Itaque quam molestias dignissimos minus nulla voluptatem ea fugiat quisquam.</h2>
+                    <p> Created: May 19th, 2021</p>
+                </div>
+                <p>Temporibus illo voluptatum illum possimus. Minus laudantium eum. 
+                Corrupti provident blanditiis qui sed aperiam ut totam. Cupiditate autem dolor pariatur commodi. Nesciunt incidunt vero repellat reiciendis.</p>
+            </div>
+        </div>
+         1`] = `null`;
